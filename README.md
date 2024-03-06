@@ -1,1 +1,1 @@
-# introImgeJMacros
+# introImageJMacros
